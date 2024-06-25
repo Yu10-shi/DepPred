@@ -13,6 +13,8 @@ Our method, DepPred, combines labeled CCL data and unlabeled breast cancer (BC) 
 
  3. **Combining Predictions**: Averages predictions from both networks to produce dinal dependency scores for the target domain.
 
+![Model Achitecture](Figs/Model_architecture.png)
+
 ## Code and Usage
 
 To run the model and reproduce the results:
