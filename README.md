@@ -1,7 +1,7 @@
 # Predicting a Cancer Dependency Map of Tumors with Unsupervised Domain Adaptation
 ## Overview
 
-This repository contains the code and data for the paper "Predicting a Cancer Dependency Map of Tumors with Unsupervised Domain Adaptation" by Yu Shi, Wei Xu, and Pingzhao Hu. The project aims to enhance the translation of findings from cancer cell lines (CCLs) to clinical settings by employing deep unsupervised domain adaptation (UDA) techniques.
+This repository contains the code and data for the paper "Predicting a Cancer Dependency Map of Tumors with Unsupervised Domain Adaptation". The project aims to enhance the translation of findings from cancer cell lines (CCLs) to clinical settings by employing deep unsupervised domain adaptation (UDA) techniques.
 
 ## Methodology
 
